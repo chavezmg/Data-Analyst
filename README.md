@@ -1,2 +1,3 @@
 # Data-Analyst
-Data Analyst - FreeCodeCamp challenges resolutions
+Language Python -
+Data Analyst - FreeCodeCamp challenges resolutions and various Dataframes analysis from kaggle, etc.
